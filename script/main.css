@@ -1,0 +1,23 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin: 50px auto;
+    border: 1px solid rgb(11, 193, 165);
+    padding: 5px;
+}
+
+p {
+    width: 60%;
+    margin: auto;
+    background: rgb(29, 96, 105);
+    color: #fff;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
